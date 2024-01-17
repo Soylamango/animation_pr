@@ -1,0 +1,161 @@
+{
+	"length": 1.04,
+	"parts": {
+		"right_arm": {
+			"rotation": [
+				{
+					"time": 0,
+					"transform": [0, 0, 157.5],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.24,
+					"transform": [-50, 0, 88.26923],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.52,
+					"transform": [0, 0, 7.5],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.76,
+					"transform": [30, 0, 76.73077],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 1.04,
+					"transform": [0, 0, 157.5],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			]
+		},
+		"left_arm": {
+			"rotation": [
+				{
+					"time": 0,
+					"transform": [0, 0, -155],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.24,
+					"transform": [-50.5, 0, -86.92308],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.52,
+					"transform": [0, 0, -7.5],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.76,
+					"transform": [22.5, 0, -75.57692],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 1.04,
+					"transform": [0, 0, -155],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			]
+		},
+		"right_leg": {
+			"rotation": [
+				{
+					"time": 0,
+					"transform": [-45, 0, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.24,
+					"transform": [41, 0, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.52,
+					"transform": [-45, 0, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.76,
+					"transform": [41, 0, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 1.04,
+					"transform": [-45, 0, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			]
+		},
+		"left_leg": {
+			"rotation": [
+				{
+					"time": 0,
+					"transform": [40, 0, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.24,
+					"transform": [-42.5, 0, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.52,
+					"transform": [40, 0, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.76,
+					"transform": [-42.5, 0, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 1.04,
+					"transform": [40, 0, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			]
+		}
+	}
+}

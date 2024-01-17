@@ -1,0 +1,270 @@
+{
+	"length": 0.32,
+	"parts": {
+		"torso": {
+			"rotation": [
+				{
+					"time": 0,
+					"transform": [12.5, -30, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.08,
+					"transform": [-11.55378, -46.97906, -5.47405],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.2,
+					"transform": [26.03512, 11.68734, 8.58754],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			],
+			"position": [
+				{
+					"time": 0,
+					"transform": [0, 0, -1],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.08,
+					"transform": [0, 0, 4],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.2,
+					"transform": [0, -2, -4],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			]
+		},
+		"head": {
+			"position": [
+				{
+					"time": 0,
+					"transform": [0, 0, -1],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.08,
+					"transform": [0, 0, 4],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.2,
+					"transform": [0, -1, -5],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			]
+		},
+		"right_arm": {
+			"rotation": [
+				{
+					"time": 0,
+					"transform": [-28.07555, -11.0311, -19.7339],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.08,
+					"transform": [-42.11771, -13.34855, -24.26701],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.2,
+					"transform": [-29.98334, 33.56692, 33.83814],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			],
+			"position": [
+				{
+					"time": 0,
+					"transform": [0, 0, -3],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.08,
+					"transform": [2, 0, -1],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.2,
+					"transform": [0, -1, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			]
+		},
+		"left_arm": {
+			"rotation": [
+				{
+					"time": 0,
+					"transform": [-90, 0, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.08,
+					"transform": [-90, -20, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.12,
+					"transform": [-90, -38.33333, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.2,
+					"transform": [-90, 47.5, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			],
+			"position": [
+				{
+					"time": 0,
+					"transform": [0, 0, 2],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.08,
+					"transform": [-2, 0, 11],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.16,
+					"transform": [0, 0, -6],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.2,
+					"transform": [-3, 0, -6],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			]
+		},
+		"right_leg": {
+			"rotation": [
+				{
+					"time": 0,
+					"transform": [22.5, 0, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.08,
+					"transform": [-5, 0, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			],
+			"position": [
+				{
+					"time": 0,
+					"transform": [0, 1, -1],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.08,
+					"transform": [2, 3, -2],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.2,
+					"transform": [0, 0, -3],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			]
+		},
+		"left_leg": {
+			"rotation": [
+				{
+					"time": 0,
+					"transform": [0, -12.5, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.2,
+					"transform": [20, -12.5, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			],
+			"position": [
+				{
+					"time": 0,
+					"transform": [-0.3, 0, 3],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.08,
+					"transform": [-0.3, 0, 1.4],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.2,
+					"transform": [-0.3, 0, 3.4],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			]
+		}
+	}
+}

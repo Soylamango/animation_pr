@@ -1,0 +1,49 @@
+{
+	"length": 17.6,
+	"parts": {
+		"right_arm": {
+			"rotation": [
+				{
+					"time": 17.6,
+					"transform": [0, 0, 7.5],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			]
+		},
+		"left_arm": {
+			"rotation": [
+				{
+					"time": 17.6,
+					"transform": [0, 0, -7.5],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			]
+		},
+		"right_leg": {
+			"rotation": [
+				{
+					"time": 17.6,
+					"transform": [0, 0, 2.5],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			]
+		},
+		"left_leg": {
+			"rotation": [
+				{
+					"time": 17.6,
+					"transform": [0, 0, -2.5],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			]
+		}
+	}
+}

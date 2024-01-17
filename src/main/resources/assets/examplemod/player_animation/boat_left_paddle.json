@@ -1,0 +1,188 @@
+{
+	"length": 0.72,
+	"parts": {
+		"torso": {
+			"rotation": [
+				{
+					"time": 0,
+					"transform": [5, 5, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.36,
+					"transform": [0, 0, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.72,
+					"transform": [5, 5, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			],
+			"position": [
+				{
+					"time": 0,
+					"transform": [0, 0, -1],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.36,
+					"transform": [0, 0, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.72,
+					"transform": [0, 0, -1],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			]
+		},
+		"head": {
+			"position": [
+				{
+					"time": 0,
+					"transform": [0, 0, -2],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.36,
+					"transform": [0, 0, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.72,
+					"transform": [0, 0, -2],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			]
+		},
+		"right_arm": {
+			"rotation": [
+				{
+					"time": 0,
+					"transform": [3.49908, -6.3402, 32.38995],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.36,
+					"transform": [-1.50092, -6.3402, 32.38995],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.72,
+					"transform": [3.49908, -6.3402, 32.38995],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			],
+			"position": [
+				{
+					"time": 0,
+					"transform": [0, 0, -1],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.36,
+					"transform": [0, 0, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.72,
+					"transform": [0, 0, -1],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			]
+		},
+		"left_arm": {
+			"rotation": [
+				{
+					"time": 0,
+					"transform": [-42.90462, 8.41456, -32.45508],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.16,
+					"transform": [-10.1717, 5.99467, -47.37823],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.36,
+					"transform": [32.09538, 8.41456, -32.45508],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.52,
+					"transform": [0.25277, 8.50076, -22.34522],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.72,
+					"transform": [-42.90462, 8.41456, -32.45508],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			],
+			"position": [
+				{
+					"time": 0,
+					"transform": [0, 0, -1],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.36,
+					"transform": [0, 0, 0],
+					"interpolation": {
+						"type": "linear"
+					}
+				},
+				{
+					"time": 0.72,
+					"transform": [0, 0, -1],
+					"interpolation": {
+						"type": "linear"
+					}
+				}
+			]
+		}
+	}
+}
